@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 
+.env
+.idea/prettier.xml
+
+
 # testing
 /coverage
 
